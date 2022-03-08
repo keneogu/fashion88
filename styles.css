@@ -211,8 +211,6 @@
 	.nav-contain {
 		display: flex;
 		flex-direction: column;
-		/* position: fixed;
-		height: 100vh; */
 		width: 100%;
 	}
 
@@ -226,10 +224,6 @@
 		text-align: center;
 		display: none;
 	}
-
-  /* .ul-list {
-		display: none;
-	} */
 
 	.ul-link {
 		color: #fff;
